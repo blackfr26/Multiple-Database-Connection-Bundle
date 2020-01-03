@@ -1,0 +1,6 @@
+services:
+#    whmcs_connection:
+#        class: DesarrolloHosting\MultipleDbConnectionBundle\Model\WhmcsConnection
+#        arguments: ['whmcs', %multiple_db_connection.whmcs.databases%, "@logger"]
+#        tags:
+#            - { name: monolog.logger, channel: multiple_db_connection }

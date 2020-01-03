@@ -1,0 +1,6 @@
+#desarrollo_hosting_whmcs_connection_homepage:
+#    path:     /
+#    defaults: { _controller: DesarrolloHostingMultipleDbConnectionBundle:Default:index }
+desarrollo_hosting_multiple_db_connection_homepage:
+    path: /multiple_db_connection/test
+    defaults:  { _controller: DesarrolloHostingMultipleDbConnectionBundle:Default:index }

@@ -1,0 +1,1 @@
+https://github.com/tikoflano/Multiple-Database-Connection-Bundle/blob/master/Model/Exception/InvalidQueryException.php
